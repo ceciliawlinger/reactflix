@@ -40,7 +40,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
@@ -104,50 +104,46 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "O poderoso chefão",
+          "url": "https://www.youtube.com/watch?v=sY1S34973zAE"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Brilho Eterno de uma mente sem lembranças",
+          "url": "https://www.youtube.com/watch?v=yEFJPhmZl1c"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Advogado do diabo",
+          "url": "https://www.youtube.com/watch?v=40hHA9n4C2o"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "John Wick",
+          "url": "https://www.youtube.com/watch?v=C0BMx-qxsP4"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Séries",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Veep",
+          "url": "https://www.youtube.com/watch?v=I2HoCG_iyhU"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Buffy - The Vampire Slayer",
+          "url": "https://www.youtube.com/watch?v=DYPF0hgPjzY"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Por que community é brilhante?",
+          "url": "https://www.youtube.com/watch?v=Hteck19aLcw"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "This is Us",
+          "url": "https://www.youtube.com/watch?v=rR6-fctDmB0"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "The OC",
+          "url": "https://www.youtube.com/watch?v=Fy8dNMIpbF0"
         }
       ]
     },
